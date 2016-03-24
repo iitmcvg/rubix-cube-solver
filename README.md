@@ -2,10 +2,10 @@
 A repository for Rubix cube solving tool.
 
 ## Source
-cubeconfig.cpp
+cubeconfig.cpp: 
 Reads in 6 images corresponding to faces of the cube and identifies the colour configuration of the cube
 
-Rubix_main.c
+Rubix_main.c: 
 Program to solve the rubix cube given a string of length 54 characters(composed of W,G,R,B,O,Y)
 
 ## Dependencies
@@ -26,23 +26,9 @@ Run:
 ```
 $ ./RubiksSolver.sh
 ```
+
 Then enter path of the 6 images of the cube in the shown order:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img src = "https://raw.githubusercontent.com/iitmcvg/rubix-cube-solver/master/Images/sample.jpg" width = "40%" />
+<br><br>
 
 Press spacebar to solve the cube
