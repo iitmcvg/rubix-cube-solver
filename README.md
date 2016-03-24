@@ -28,6 +28,7 @@ $ ./RubiksSolver.sh
 ```
 
 Then enter path of the 6 images of the cube in the shown order:
+<br><br>
 <img src = "https://raw.githubusercontent.com/iitmcvg/rubix-cube-solver/master/Images/sample.jpg" width = "40%" />
 <br><br>
 
