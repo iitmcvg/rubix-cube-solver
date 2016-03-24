@@ -9,9 +9,9 @@ Rubix_main.c:
 Program to solve the rubix cube given a string of length 54 characters(composed of W,G,R,B,O,Y)
 
 ## Dependencies
-*OpenCV 3.0.0
-*OpenGL
-*GLUT
+* OpenCV 3.0.0
+* OpenGL
+* GLUT
 
 ## Trial
 If you don't have OpenGL and GLUT type `sudo apt-get install freeglut3-dev` to install everything you need
@@ -36,7 +36,7 @@ $ ./RubiksSolver.sh Images/1.jpg Images/2.jpg Images/3.jpg Images/4.jpg Images/5
 ```
 Output:
 <br><br>
-<img src = "https://raw.githubusercontent.com/iitmcvg/rubix-cube-solver/master/review/Screenshot from 2016-03-22 21:47:54.jpg" width = "40%" />
+<img src = "https://raw.githubusercontent.com/iitmcvg/rubix-cube-solver/master/review/Screenshot from 2016-03-22 21:47:54.png" width = "40%" />
 <br><br>
 
   
