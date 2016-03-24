@@ -36,7 +36,7 @@ $ ./RubiksSolver.sh Images/1.jpg Images/2.jpg Images/3.jpg Images/4.jpg Images/5
 ```
 Output:
 <br><br>
-<img src = "https://raw.githubusercontent.com/iitmcvg/rubix-cube-solver/master/review/Screenshot from 2016-03-24 22:29:21.png" width = "40%" />
+<img src = "https://raw.githubusercontent.com/iitmcvg/rubix-cube-solver/master/Images/Screenshot from 2016-03-24 22:29:21.png" width = "40%" />
 <br><br>
 
   
